@@ -6,7 +6,7 @@ I’m a Computer Science graduate and software developer passionate about buildi
 
 I work mainly with the **MERN Stack, React Native, Firebase/Supabase, REST APIs, and AI technologies**. I enjoy turning ideas into complete digital products with clean interfaces, practical functionality, and reliable architecture.
 
-Currently, I’m focused on building professional projects, expanding my expertise in AI and automation, and working with clients through freelance platforms such as Fiverr and Upwork.
+Currently, I’m focused on building professional projects, expanding my expertise in AI and automation, and working with clients through freelance platforms.
 
 ---
 
