@@ -60,19 +60,79 @@ Currently, I’m focused on building professional projects, expanding my experti
 
 ---
 
-## ⭐ Selected Work
+## 🚀 Featured Projects
 
-**Car Rental Platform** — Full-stack rental platform with vehicle listings, availability checking and booking functionality.
+<details open>
+  <summary><b>🎨 SyncBoard | Real-Time Collaborative Workspace</b></summary>
+  <br />
 
-**MERN E-Commerce Platform** — Modern clothing marketplace with product categories, filtering, product details and shopping cart functionality.
+  > High-performance digital whiteboard application engineered for seamless multi-user collaboration in real time.
 
-**SyncBoard** — Real-time collaborative workspace built with React, Redux Toolkit, Socket.IO and Node.js.
+  * **Key Features:** Real-time multi-user drawing (Pen, Shapes, Eraser), shape transformation & rotation, custom stroke/fill controls, canvas clear, and live peer cursor tracking.
+  * **Tech Stack:** `React` `Konva.js` `Redux Toolkit` `Node.js` `Express.js` `Socket.IO` `Tailwind CSS`
 
-**Workflow Automation Builder** — Interactive workflow creation and automation platform.
+  <br />
+</details>
 
-**Audio Visualizer Studio** — Real-time audio visualization and interactive web experience.
+<details>
+  <summary><b>🐶 Paw Secure Xchange | AI-Powered Pet Marketplace</b></summary>
+  <br />
 
-**Paw Secure Xchange** — Mobile pet marketplace combining React Native, Supabase and AI-based image matching.
+  > Cross-platform mobile ecosystem connecting pet owners with AI-assisted image identification and secure verification.
+
+  * **Key Features:** Smart pet listing management, automated AI image matching for pet identification, real-time messaging, and secure authentication.
+  * **Tech Stack:** `React Native` `Expo` `Supabase` `Python` `OpenCV` `Firebase`
+
+  <br />
+</details>
+
+<details>
+  <summary><b>⚡ Workflow Automation Builder | Interactive Canvas Platform</b></summary>
+  <br />
+
+  > Visual node-based workflow builder for creating, configuring, and executing automated task pipelines.
+
+  * **Key Features:** Drag-and-drop node connections, custom execution logic, dynamic trigger inputs, and real-time state visualization.
+  * **Tech Stack:** `TypeScript` `React` `Redux Toolkit` `Node.js` `REST APIs` `Tailwind CSS`
+
+  <br />
+</details>
+
+<details>
+  <summary><b>🎵 Audio Visualizer Studio | Real-Time Web Experience</b></summary>
+  <br />
+
+  > Interactive web application generating dynamic 3D/2D visual renders driven by real-time audio input frequency analysis.
+
+  * **Key Features:** Live microphone/file frequency analysis, custom visualizer themes, reactive particle systems, and audio export support.
+  * **Tech Stack:** `JavaScript` `HTML5 Canvas` `Web Audio API` `Three.js` `Tailwind CSS`
+
+  <br />
+</details>
+
+<details>
+  <summary><b>🚗 Car Rental Platform | Full-Stack Reservation Engine</b></summary>
+  <br />
+
+  > Complete end-to-end vehicle booking ecosystem with real-time fleet availability and customer reservation management.
+
+  * **Key Features:** Dynamic vehicle catalog, interactive booking calendar, availability verification, user dashboard, and admin management system.
+  * **Tech Stack:** `MongoDB` `Express.js` `React` `Node.js` `Tailwind CSS`
+
+  <br />
+</details>
+
+<details>
+  <summary><b>🛍️ MERN E-Commerce Platform | Modern Fashion Marketplace</b></summary>
+  <br />
+
+  > Feature-rich clothing storefront with real-time cart synchronization, advanced catalog filtering, and seamless checkout flow.
+
+  * **Key Features:** Category-based product search, dynamic multi-attribute filters, persistent shopping cart, user profile, and order tracking.
+  * **Tech Stack:** `React` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+  
+  <br />
+</details>
 
 ---
 
